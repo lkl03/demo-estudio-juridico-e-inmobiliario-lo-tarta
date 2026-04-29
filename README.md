@@ -1,2 +1,7 @@
-# demo-estudio-juridico-e-inmobiliario-lo-tarta
-Demo web para Estudio Juridico E Inmobiliario Lo Tartaro &amp; Asociados — diseñada por eterlab.
+# Estudio Juridico E Inmobiliario Lo Tartaro & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
